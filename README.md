@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # blog
 
 ## Project setup
